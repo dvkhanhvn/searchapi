@@ -1,0 +1,36 @@
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\API.dll.config
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\API.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\API.pdb
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\Newtonsoft.Json.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\Swashbuckle.Core.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.Net.Http.Formatting.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.WebHost.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\WebActivatorEx.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\Newtonsoft.Json.xml
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.Net.Http.Formatting.xml
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.xml
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.WebHost.xml
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\obj\Debug\API.dll
+C:\Users\khanhdv1\Documents\Visual Studio 2013\Projects\API\API\obj\Debug\API.pdb
+D:\Capitaland\API\API\bin\API.dll.config
+D:\Capitaland\API\API\bin\API.dll
+D:\Capitaland\API\API\bin\API.pdb
+D:\Capitaland\API\API\bin\Microsoft.Web.Infrastructure.dll
+D:\Capitaland\API\API\bin\Newtonsoft.Json.dll
+D:\Capitaland\API\API\bin\Swashbuckle.Core.dll
+D:\Capitaland\API\API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Capitaland\API\API\bin\System.Net.Http.Formatting.dll
+D:\Capitaland\API\API\bin\System.Web.Http.dll
+D:\Capitaland\API\API\bin\System.Web.Http.WebHost.dll
+D:\Capitaland\API\API\bin\WebActivatorEx.dll
+D:\Capitaland\API\API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Capitaland\API\API\bin\Newtonsoft.Json.xml
+D:\Capitaland\API\API\bin\System.Net.Http.Formatting.xml
+D:\Capitaland\API\API\bin\System.Web.Http.xml
+D:\Capitaland\API\API\bin\System.Web.Http.WebHost.xml
+D:\Capitaland\API\API\obj\Debug\API.dll
+D:\Capitaland\API\API\obj\Debug\API.pdb

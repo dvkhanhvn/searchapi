@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConnStringSolr-Web.config Connection String" description="ConnStringSolr Connection String used in web.config by the application to access the database." defaultValue="http://13.228.252.30:8983/solr/dft" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Capitaland\\API\\API\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnStringSolr']/@connectionString" />
+  </parameter>
+</parameters>
